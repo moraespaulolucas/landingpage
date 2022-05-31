@@ -1,3 +1,3 @@
-# vitejs-vite-tyvovx
+# landingpage
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-tyvovx)
