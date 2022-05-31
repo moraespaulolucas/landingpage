@@ -9,7 +9,7 @@ const theme = {
   },
   fonts: {},
   sizes: {
-    section: '50%',
+    section: '80vh',
     mediaQuery: '768px',
     padding: '1.5rem',
     padding2: '0.5rem',
