@@ -13,7 +13,7 @@ const theme = {
     mediaQuery: '768px',
     padding: '1.5rem',
     padding2: '0.5rem',
-    sideMenu: '40%',
+    sidemenu: '40%',
     text: {
       h1: '3rem',
       h2: '2.5rem',

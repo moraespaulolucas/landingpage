@@ -7,6 +7,7 @@ const { colors, sizes } = theme;
 
 const StyledNav = styled.nav`
 position: sticky;
+top: 0;
 display: flex;
 align-items: center;
 justify-content: space-around;
@@ -38,9 +39,9 @@ section {
   justify-content: flex-end;
   position: fixed;
   height: 100%;
-  width: ${sizes.sideMenu};
+  width: ${sizes.sidemenu};
   top: 0;
-  right: ${(props) => (props.activated ? 0 : `-${sizes.sideMenu}`)};
+  right: ${(props) => (props.activated ? 0 : `-${sizes.sidemenu}`)};
   background-color: ${colors.white};
   section {
     flex-direction: column;
